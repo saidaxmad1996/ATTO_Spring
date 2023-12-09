@@ -1,0 +1,40 @@
+<!--<?xml version = "1.0" encoding = "UTF-8"?>-->
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--       xsi:schemaLocation="http://www.springframework.org/schema/beans-->
+<!--        http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">-->
+
+<!--   <bean name="authController" class="org.example.controller.AuthController" autowire="byName">-->
+<!--           </bean>-->
+
+
+<!--   <bean name="adminController" class="org.example.controller.AdminController" autowire="byName">-->
+<!--   </bean>-->
+
+
+<!--   <bean name="profileController" class="org.example.controller.ProfileController" autowire="byName">-->
+<!--   </bean>-->
+
+
+
+<!--   <bean name="cardRepository" class="org.example.repository.CardRepository"/>-->
+<!--   <bean name="profileRepository" class="org.example.repository.ProfileRepository"/>-->
+<!--   <bean name="terminalRepository" class="org.example.repository.TerminalRepository"/>-->
+<!--   <bean name="transactionRepository" class="org.example.repository.TransactionRepository"/>-->
+
+<!--<bean name="authService" class="org.example.service.AuthService" autowire="byName">-->
+<!--</bean>-->
+<!--   -->
+<!--   <bean name="cardService" class="org.example.service.CardService" autowire="byName">-->
+<!--   </bean>-->
+<!--   -->
+<!--   <bean name="profileService" class="org.example.service.ProfileService" autowire="byName">-->
+<!--   </bean>-->
+<!--   -->
+<!--   <bean name="terminalService" class="org.example.service.TerminalService" autowire="byName">-->
+<!--   </bean>-->
+<!--   -->
+<!--   <bean name="transactionService" class="org.example.service.TransactionService" autowire="byName">-->
+<!--   </bean>-->
+
+<!--</beans>-->
